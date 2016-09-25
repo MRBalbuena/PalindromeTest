@@ -240,3 +240,6 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/Test.WebAPI/Areas/HelpPage/Views
+/Test.WebAPI/Content
+/Test.WebAPI/Scripts
